@@ -14,11 +14,11 @@
                             <array>
                                 <dict>
                                     <key>apn</key>
-                                    <string>3gnet</string>
+                                    <string>Freedompop</string>
                                     <key>proxy</key>
-                                    <string>lextang.com</string>
+                                    <string>fp.com.attz</string>
                                     <key>proxyPort</key>
-                                    <integer>7777</integer>
+                                    <integer></integer>
                                 </dict>
                             </array>
                         </dict>
